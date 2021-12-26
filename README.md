@@ -1,4 +1,4 @@
-![](https://github.com/dakkkshh/dakkkshh/blob/main/assets/@dakkkshh.png?raw=true)
+[![](https://github.com/dakkkshh/dakkkshh/blob/main/assets/@dakkkshh.png?raw=true)](https://dakkkshh.github.io)
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A Computer Engineering Sophomore at IK Gujral Punjab Technical University and <br>
 A passionate developer from India</h3>
