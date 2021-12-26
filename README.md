@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">A Computer Engineering Sophomore at IK Gujral Punjab Technical University and a passionate developer from India</h3>
+<h3 align="center">A Computer Engineering Sophomore at IK Gujral Punjab Technical University and <br>
+A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [SnapIsIt](https://github.com/dakkkshh/SnapIsIt)
 
